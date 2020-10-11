@@ -514,6 +514,19 @@ Nucleo_32.menu.pnum.NUCLEO_L412KB.build.product_line=STM32L412xx
 Nucleo_32.menu.pnum.NUCLEO_L412KB.build.variant=NUCLEO_L412KB
 Nucleo_32.menu.pnum.NUCLEO_L412KB.build.cmsis_lib_gcc=arm_cortexM4lf_math
 
+# NUCLEO_L432KB board
+Nucleo_32.menu.pnum.NUCLEO_L432KB=Nucleo L432KB
+Nucleo_32.menu.pnum.NUCLEO_L432KB.node=NODE_L432KB
+Nucleo_32.menu.pnum.NUCLEO_L432KB.upload.maximum_size=131072
+Nucleo_32.menu.pnum.NUCLEO_L432KB.upload.maximum_data_size=65536
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.mcu=cortex-m4
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.flags.fp=-mfpu=fpv4-sp-d16 -mfloat-abi=hard
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.board=NUCLEO_L432KB1
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.series=STM32L4xx
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.product_line=STM32L432xx
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.variant=NUCLEO_L432KB
+Nucleo_32.menu.pnum.NUCLEO_L432KB.build.cmsis_lib_gcc=arm_cortexM4lf_math
+
 # NUCLEO_L432KC board
 Nucleo_32.menu.pnum.NUCLEO_L432KC=Nucleo L432KC
 Nucleo_32.menu.pnum.NUCLEO_L432KC.node=NODE_L432KC
